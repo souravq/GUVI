@@ -8,7 +8,7 @@ int main(void) {
 	{
 		if(i%2!=0)
 		{
-			printf("%d\t",i);
+			printf("%d ",i);
 		}
 	}
 	return 0;
