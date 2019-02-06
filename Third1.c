@@ -8,7 +8,7 @@ int main()
 	if(N%2==0)
 	    printf("Even");
 	else
-	    printf("odd");
+	    printf("Odd");
 	}
 	else 
 	   printf("Invalid");
